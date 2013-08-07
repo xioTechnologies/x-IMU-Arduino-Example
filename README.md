@@ -5,4 +5,4 @@ Generic C++ library for receiving data from the [x-IMU](http://www.x-io.co.uk/x-
 
 =========
 
-<img src="https://raw.github.com/xioTechnologies/x-IMU-Arduino-Example/master/Test%20Setup.jpg" alt="IR Theremin" style="width: 600px;"/>
+<img src="https://raw.github.com/xioTechnologies/x-IMU-Arduino-Example/master/Test%20Setup.jpg" style="width: 600px;"/>
